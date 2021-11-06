@@ -1,0 +1,4 @@
+﻿  JedDaviesLab3CS103.cpp
+C:\Users\jedda\source\repos\JedDaviesLab3CS103\JedDaviesLab3CS103.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jedda\source\repos\JedDaviesLab3CS103\JedDaviesLab3CS103.cpp(210): warning C4172: returning address of local variable or temporary: dice
+  JedDaviesLab3CS103.vcxproj -> C:\Users\jedda\source\repos\JedDaviesLab3CS103\Debug\JedDaviesLab3CS103.exe
